@@ -10,6 +10,12 @@ Furthermore, JavaScript usage has now extended to mobile app development, deskto
 
 `To put things simply, JavaScript is an object orient programming language designed to make web development easier and more attractive. In most cases, JavaScript is used to create responsive, interactive elements for web pages, enhancing the user experience.`
 
+## Following are the programs in this directory:
+
+- (Generate Fibonacci Series)[https://github.com/austinnoronha/HacktoberFest2020-Contributions/blob/56789f6cd1749765b86449e65d83db69f4881d0c/Programs%20in%20Javascript/Fibonacci_Series.js#L9]
+
+----
+
 ## You can contribute to it in either of the following ways:
 
 - Beginners:

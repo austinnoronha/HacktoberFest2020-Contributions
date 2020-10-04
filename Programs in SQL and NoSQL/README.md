@@ -1,12 +1,18 @@
 # Overview
 
-This folder contains programs written in C++
+This folder contains programs written in SQL & NoSQL
 
-## Why C++?
+`hmmmm.... programs in SQL and NoSQL?`
 
-uses of C++ allows procedural programming for intensive functions of CPU and to provide control over hardware, and this language is very fast because of which it is widely used in developing different games or in gaming engines. 
+## Why SQL / NoSQL?
 
-`C++ is used for making Google Chrome, and Mozilla Internet browser Firefox.`
+Many would say whats programs can we write in SQL and NoSQL.
+
+It's basically not about writing programs but more ficus on concepts of SQL & NoSQL.
+
+Despite NoSQL's rising popularity, it's not a replacement for SQL. It's an alternative. Some projects are better suited to using an SQL database, while others work well with NoSQL.
+
+`If your data is very structured and ACID compliance is a must, SQL is a great choice. On the other hand, if your data requirements aren't clear or if your data is unstructured, NoSQL may be your best bet. The data you store in a NoSQL database does not need a predefined schema like you do for a SQL database.`
 
 ## You can contribute to it in either of the following ways:
 

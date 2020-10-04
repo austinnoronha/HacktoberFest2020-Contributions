@@ -1,12 +1,12 @@
 # Overview
 
-This folder contains programs written in C++
+This folder contains programs written in Other Languages
 
-## Why C++?
+## Why Other Languages aka 'polyglot'?
 
-uses of C++ allows procedural programming for intensive functions of CPU and to provide control over hardware, and this language is very fast because of which it is widely used in developing different games or in gaming engines. 
+Knowing multiple programming languages is known as being a `polyglot programmer`, and polyglot programmers have far more opportunities than programmers who only know a single language.
 
-`C++ is used for making Google Chrome, and Mozilla Internet browser Firefox.`
+`To put things simply, your can commit your programs that fits under the other language section`
 
 ## You can contribute to it in either of the following ways:
 

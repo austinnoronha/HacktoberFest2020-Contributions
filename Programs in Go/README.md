@@ -1,12 +1,15 @@
 # Overview
 
-This folder contains programs written in C++
+This folder contains programs written in Go
 
-## Why C++?
+## Why Go?
 
-uses of C++ allows procedural programming for intensive functions of CPU and to provide control over hardware, and this language is very fast because of which it is widely used in developing different games or in gaming engines. 
+Go brings best of both the worlds. Like lower level languages like C/C++, Go is compiled language. 
+That means performance is almost nearer to lower level languages. 
 
-`C++ is used for making Google Chrome, and Mozilla Internet browser Firefox.`
+It also uses garbage collection to allocation and removal of the object.
+
+`However, this new programming language includes tooling that allows you to safely use memory, manage objects, collect garbage, and provide static (or strict) typing along with concurrency.`
 
 ## You can contribute to it in either of the following ways:
 

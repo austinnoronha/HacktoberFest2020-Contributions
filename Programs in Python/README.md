@@ -1,12 +1,12 @@
 # Overview
 
-This folder contains programs written in C++
+This folder contains programs written in Python
 
-## Why C++?
+## Why Python?
 
-uses of C++ allows procedural programming for intensive functions of CPU and to provide control over hardware, and this language is very fast because of which it is widely used in developing different games or in gaming engines. 
+Python is a high-level, interpreted and general-purpose dynamic programming language that focuses on code readability.
 
-`C++ is used for making Google Chrome, and Mozilla Internet browser Firefox.`
+`Python is a general-purpose coding language—which means that, unlike HTML, CSS, and JavaScript, it can be used for other types of programming and software development besides web development.`
 
 ## You can contribute to it in either of the following ways:
 

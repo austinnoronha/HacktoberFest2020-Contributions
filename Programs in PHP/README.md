@@ -1,12 +1,12 @@
 # Overview
 
-This folder contains programs written in C++
+This folder contains programs written in PHP
 
-## Why C++?
+## Why PHP?
 
-uses of C++ allows procedural programming for intensive functions of CPU and to provide control over hardware, and this language is very fast because of which it is widely used in developing different games or in gaming engines. 
+One of the major advantages of the PHP programming language is that it is accessible for free to web developers. It is executed at the server side that means it functions on the web server.
 
-`C++ is used for making Google Chrome, and Mozilla Internet browser Firefox.`
+`Facebook still uses PHP, but it has built a compiler for it so it can be turned into native code on its web servers, thus boosting performance`
 
 ## You can contribute to it in either of the following ways:
 

@@ -1,12 +1,16 @@
 # Overview
 
-This folder contains programs written in C++
+This folder contains programs written in JavaScript
 
-## Why C++?
+## Why JavaScript?
 
-uses of C++ allows procedural programming for intensive functions of CPU and to provide control over hardware, and this language is very fast because of which it is widely used in developing different games or in gaming engines. 
+Not to be confused with Java, JavaScript allows you to build interactive websites. 
 
-`C++ is used for making Google Chrome, and Mozilla Internet browser Firefox.`
+JavaScript has become an essential web technology along with HTML and CSS, as most browsers implement JavaScript. 
+
+Furthermore, JavaScript usage has now extended to mobile app development, desktop app development, and game development.
+
+`To put things simply, JavaScript is an object orient programming language designed to make web development easier and more attractive. In most cases, JavaScript is used to create responsive, interactive elements for web pages, enhancing the user experience.`
 
 ## You can contribute to it in either of the following ways:
 

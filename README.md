@@ -1,8 +1,6 @@
 # Overview
 
-HacktoberFest 2020 Contributions Repository is for all who would like to Contribute to the #OpenSource :rainbow:
-
-The goal of this project is to help the beginners/advanced users with their contributions in #OpenSource :earth_asia: Community 
+HacktoberFest 2020 Contributions Repository - The goal of this project is to help the beginners/advanced users with their contributions in #OpenSource :earth_asia: Community 
 
 We aim to achieve this collaboratively, so feel free to contribute in any way you want, just make sure to follow the contribution guidelines. 
 

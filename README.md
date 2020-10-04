@@ -8,14 +8,16 @@ You can contribute to it in either of the following ways:
 
 - Beginners:
 	- A "Hello World" program in your favorite language.
-  - A program tp input some strings and then output something based on filter, string operations or let your creativity go wild
+  	- A program tp input some strings and then output something based on filter, string operations or let your creativity go wild
 - Intermediate:
 	- Add any one of your favorite algorithm in your favorite language, from simple to complex!
-  - Sorting problem solutions
-  - Memorry management problem solutions
+  	- Sorting problem solutions
+  	- Memorry management problem solutions
 - Expert:
 	- Add any graphical game in your favorite programming language!
-  - Any Program that generates word game!
+  	- Any Program that generates word game!
+- Others: 
+	- Any other program that will help other users in development, debugging, reporting etc
 
 # 🙌 HacktoberFest-2020
 

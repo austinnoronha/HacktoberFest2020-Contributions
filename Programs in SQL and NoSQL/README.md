@@ -1,11 +1,9 @@
 # Overview
-
 This folder contains programs written in SQL & NoSQL
 
 `hmmmm.... programs in SQL and NoSQL?`
 
 ## Why SQL / NoSQL?
-
 Many would say whats programs can we write in SQL and NoSQL.
 
 It's basically not about writing programs but more ficus on concepts of SQL & NoSQL.

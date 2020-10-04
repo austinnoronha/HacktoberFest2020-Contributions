@@ -1,9 +1,7 @@
 # Overview
-
 This folder contains programs written in Python
 
 ## Why Python?
-
 Python is a high-level, interpreted and general-purpose dynamic programming language that focuses on code readability.
 
 `Python is a general-purpose coding language—which means that, unlike HTML, CSS, and JavaScript, it can be used for other types of programming and software development besides web development.`

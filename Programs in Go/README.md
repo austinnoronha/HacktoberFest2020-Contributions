@@ -1,10 +1,9 @@
 # Overview
-
 This folder contains programs written in Go
 
 ## Why Go?
+Go (from Google) brings best of both the worlds. Like lower level languages like C/C++, Go is compiled language. 
 
-Go brings best of both the worlds. Like lower level languages like C/C++, Go is compiled language. 
 That means performance is almost nearer to lower level languages. 
 
 It also uses garbage collection to allocation and removal of the object.

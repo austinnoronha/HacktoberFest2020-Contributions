@@ -1,10 +1,8 @@
 # Overview
-
 This folder contains programs written in C++
 
 ## Why C++?
-
-uses of C++ allows procedural programming for intensive functions of CPU and to provide control over hardware, and this language is very fast because of which it is widely used in developing different games or in gaming engines. 
+Uses of C++ allows procedural programming for intensive functions of CPU and to provide control over hardware, and this language is very fast because of which it is widely used in developing different games or in gaming engines. 
 
 `C++ is used for making Google Chrome, and Mozilla Internet browser Firefox.`
 

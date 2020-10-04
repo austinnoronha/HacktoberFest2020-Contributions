@@ -1,9 +1,7 @@
 # Overview
-
 This folder contains programs written in PHP
 
 ## Why PHP?
-
 One of the major advantages of the PHP programming language is that it is accessible for free to web developers. It is executed at the server side that means it functions on the web server.
 
 `Facebook still uses PHP, but it has built a compiler for it so it can be turned into native code on its web servers, thus boosting performance`

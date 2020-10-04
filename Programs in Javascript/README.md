@@ -1,9 +1,7 @@
 # Overview
-
 This folder contains programs written in JavaScript
 
 ## Why JavaScript?
-
 Not to be confused with Java, JavaScript allows you to build interactive websites. 
 
 JavaScript has become an essential web technology along with HTML and CSS, as most browsers implement JavaScript. 

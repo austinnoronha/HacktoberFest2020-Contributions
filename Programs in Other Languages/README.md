@@ -1,9 +1,7 @@
 # Overview
-
 This folder contains programs written in Other Languages
 
 ## Why Other Languages aka 'polyglot'?
-
 Knowing multiple programming languages is known as being a `polyglot programmer`, and polyglot programmers have far more opportunities than programmers who only know a single language.
 
 `To put things simply, your can commit your programs that fits under the other language section`

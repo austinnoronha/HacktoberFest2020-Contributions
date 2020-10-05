@@ -8,7 +8,7 @@ Python is a high-level, interpreted and general-purpose dynamic programming lang
 
 ## Following are the programs in this directory:
 
-- :man_technologist: [Temperature Converter - unit Celsius or Fahrenheit](https://github.com/austinnoronha/HacktoberFest2020-Contributions/blob/1bd6dd70ca5ca380b00c19e2f22d530c187b0fc8/Programs%20in%20Python/Temperature%20Converter.py#L1)
+- :man_technologist: [@TaylerL](https://github.com/TaylerL) - [Temperature Converter - unit Celsius or Fahrenheit](https://github.com/austinnoronha/HacktoberFest2020-Contributions/blob/1bd6dd70ca5ca380b00c19e2f22d530c187b0fc8/Programs%20in%20Python/Temperature%20Converter.py#L1)
 
 ---
 

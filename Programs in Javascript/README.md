@@ -16,6 +16,10 @@ Furthermore, JavaScript usage has now extended to mobile app development, deskto
 
 ----
 
+# Contribution 
+
+Please refer to our main contribution by file - [contribute.md](https://github.com/austinnoronha/HacktoberFest2020-Contributions/blob/main/contribute.md)
+
 ## You can contribute to it in either of the following ways:
 
 - Beginners:
